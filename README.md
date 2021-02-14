@@ -28,3 +28,12 @@ With knowledge of machine learning and neural networks, we will be using the fea
      
   ![line_image](Resources/attempt3.png)
     
+  - What steps did you take to try and increase model performance?
+    - I added an extra hidden layer, used the reccomendation for neurons and i also tried using only 25-50 epochs.
+    - I also tried only dropping one column but actully gave me a worse score.
+    
+## Summary 
+
+It seems as there is not enought data in this dataset to get a overall better score. Given that we need more data in this dataset, Random Forest model is recommended. It will be able to train on a larger dataset and predict values in seconds. 
+    
+    
